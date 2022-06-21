@@ -1,14 +1,147 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "guildId":"e6068075-0618-405f-b297-1f5307c0e715",
+   "name":"Group3",
+   "avatarUrl":"https://st2.depositphotos.com/47577860/46213/v/380/depositphotos_462132810-stock-illustration-amusement-park-castle-disney-icon.jpg?forcejpeg=true",
+   "members":[
+      {
+         "id":"5ad91da1-b19c-4365-970f-d320133fc2fa",
+         "joinAt":"2022-06-19T01:58:38.914Z",
+         "nickname":"anh",
+         "avatarUrl":"https://i.pinimg.com/474x/7c/8f/47/7c8f476123d28d103efe381543274c25.jpg",
+         "user":{
+            "userId":"dec71623-3e00-4fc1-bccf-dcd5ac0d3334",
+            "account":"nngguyen.anh@gmail.com",
+            "name":"anh",
+            "avatarUrl":"https://i.pinimg.com/474x/7c/8f/47/7c8f476123d28d103efe381543274c25.jpg",
+            "lastLogin":"2022-06-19T01:58:11.888Z",
+            "isOnline":true
+         },
+         "roles":[
+            {
+               "roleId":"aa0e9e2d-bd25-4943-921d-e16bf46e6f22",
+               "name":"@everyone",
+               "icon":null,
+               "color":"#000000"
+            }
+         ],
+         "guild":{
+            "guildId":"e6068075-0618-405f-b297-1f5307c0e715",
+            "name":"Group3",
+            "avatarUrl":"https://st2.depositphotos.com/47577860/46213/v/380/depositphotos_462132810-stock-illustration-amusement-park-castle-disney-icon.jpg?forcejpeg=true"
+         }
+      }
+   ],
+   "categories":[
+      {
+         "categoryId":"b793911c-2cc8-4e66-88fc-8b2eddf0d386",
+         "name":"Category 2",
+         "channels":[
+            {
+               "channelId":"77bec2f5-d9c7-463e-8c15-1535d5562079",
+               "name":"channel 1",
+               "messages":[
+                  
+               ],
+               "members":[
+                  
+               ],
+               "roles":[
+                  
+               ]
+            },
+            {
+               "channelId":"e61ac18b-566e-4252-b094-ccf388fdaa7e",
+               "name":"lobby",
+               "messages":[
+                  
+               ],
+               "members":[
+                  {
+                     "id":"5ad91da1-b19c-4365-970f-d320133fc2fa",
+                     "joinAt":"2022-06-19T01:58:38.914Z",
+                     "nickname":"anh",
+                     "avatarUrl":"https://i.pinimg.com/474x/7c/8f/47/7c8f476123d28d103efe381543274c25.jpg",
+                     "user":{
+                        "userId":"dec71623-3e00-4fc1-bccf-dcd5ac0d3334",
+                        "account":"nngguyen.anh@gmail.com",
+                        "name":"anh",
+                        "avatarUrl":"https://i.pinimg.com/474x/7c/8f/47/7c8f476123d28d103efe381543274c25.jpg",
+                        "lastLogin":"2022-06-19T01:58:11.888Z",
+                        "isOnline":true
+                     },
+                     "roles":[
+                        {
+                           "roleId":"aa0e9e2d-bd25-4943-921d-e16bf46e6f22",
+                           "name":"@everyone",
+                           "icon":null,
+                           "color":"#000000"
+                        }
+                     ],
+                     "guild":{
+                        "guildId":"e6068075-0618-405f-b297-1f5307c0e715",
+                        "name":"Group3",
+                        "avatarUrl":"https://st2.depositphotos.com/47577860/46213/v/380/depositphotos_462132810-stock-illustration-amusement-park-castle-disney-icon.jpg?forcejpeg=true"
+                     }
+                  }
+               ],
+               "roles":[
+                  {
+                     "roleId":"aa0e9e2d-bd25-4943-921d-e16bf46e6f22",
+                     "name":"@everyone",
+                     "icon":null,
+                     "color":"#000000",
+                     "members":[
+                        {
+                           "id":"5ad91da1-b19c-4365-970f-d320133fc2fa",
+                           "joinAt":"2022-06-19T01:58:38.914Z",
+                           "nickname":"anh",
+                           "avatarUrl":"https://i.pinimg.com/474x/7c/8f/47/7c8f476123d28d103efe381543274c25.jpg"
+                        }
+                     ],
+                     "channels":[
+                        {
+                           "channelId":"e61ac18b-566e-4252-b094-ccf388fdaa7e",
+                           "name":"lobby"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "roles":[
+      {
+         "roleId":"3c7e558a-ddf9-4c51-944c-d01194699ff3",
+         "name":"nguyenanh",
+         "icon":null,
+         "color":"#52eb34",
+         "members":[
+            
+         ],
+         "channels":[
+            
+         ]
+      },
+      {
+         "roleId":"aa0e9e2d-bd25-4943-921d-e16bf46e6f22",
+         "name":"@everyone",
+         "icon":null,
+         "color":"#000000",
+         "members":[
+            {
+               "id":"5ad91da1-b19c-4365-970f-d320133fc2fa",
+               "joinAt":"2022-06-19T01:58:38.914Z",
+               "nickname":"anh",
+               "avatarUrl":"https://i.pinimg.com/474x/7c/8f/47/7c8f476123d28d103efe381543274c25.jpg"
+            }
+         ],
+         "channels":[
+            {
+               "channelId":"e61ac18b-566e-4252-b094-ccf388fdaa7e",
+               "name":"lobby"
+            }
+         ]
+      }
+   ]
 }
